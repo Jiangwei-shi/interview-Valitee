@@ -24,6 +24,7 @@ you can click the button to start play game. there are three result.
 ![result 3](https://raw.githubusercontent.com/Jiangwei-shi/interview-Valitee/main/public/images/gameresult3.png)
 
 next is the 404 page test.you can input anything after the site to reach 404 page.
+
 ![404 site](https://raw.githubusercontent.com/Jiangwei-shi/interview-Valitee/main/public/images/404site.png)
 
 then you will see 404 page. If you click the "white game". it will start the game.
