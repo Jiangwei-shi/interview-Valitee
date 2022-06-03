@@ -1,4 +1,3 @@
-
 body {
   background-color: #95c2de;
 }
@@ -11,34 +10,32 @@ body {
   position: relative;
 }
 
-  .err {
-    color: #ffffff;
-    font-family: 'Nunito Sans', sans-serif;
-    font-size: 11rem;
-    position:absolute;
-    left: 20%;
-    top: 8%;
-  }
+.err {
+  color: #ffffff;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 11rem;
+  position: absolute;
+  left: 20%;
+  top: 8%;
+}
 
-  .err2 {
-    color: #ffffff;
-    font-family: 'Nunito Sans', sans-serif;
-    font-size: 11rem;
-    position:absolute;
-    left: 40%;
-    top: 8%;
-  }
+.err2 {
+  color: #ffffff;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 11rem;
+  position: absolute;
+  left: 40%;
+  top: 8%;
+}
 
-  .err3 {
-    color: #ffffff;
-    font-family: 'Nunito Sans', sans-serif;
-    font-size: 11rem;
-    position:absolute;
-    left: 60%;
-    top: 8%;
-  }
-  
-
+.err3 {
+  color: #ffffff;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 11rem;
+  position: absolute;
+  left: 60%;
+  top: 8%;
+}
 
 .far {
   position: absolute;
@@ -48,18 +45,15 @@ body {
   color: #ffffff;
 }
 
-
-
-
 .msg {
-    text-align: center;
-    font-family: 'Nunito Sans', sans-serif;
-    font-size: 1.6rem;
-    position:absolute;
-    left: 13%;
-    top: 45%;
-    width: 75%;
-  }
+  text-align: center;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 1.6rem;
+  position: absolute;
+  left: 13%;
+  top: 45%;
+  width: 75%;
+}
 
 a {
   text-decoration: none;

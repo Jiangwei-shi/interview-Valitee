@@ -4,15 +4,15 @@ import MainPage from "./pages/Main";
 import GamePage from "./pages/Game";
 import PageNotFound from "./pages/PageNotFound";
 
-export interface IApplicationProps{}
-
-const Application:React.FunctionComponent<IApplicationProps> = (props) =>{
+export interface IApplicationProps { }
+//use the routes to split different pages.
+const Application: React.FunctionComponent<IApplicationProps> = (props) => {
     return <BrowserRouter>
-    <Routes>
-    <Route path="/" element={<MainPage />}/>
-    <Route path="/game" element={<GamePage />} />
-    <Route path="*" element={<PageNotFound/>} />
-    </Routes>
+        <Routes>
+            <Route path="/" element={<MainPage />} />
+            <Route path="/game" element={<GamePage />} />
+            <Route path="*" element={<PageNotFound />} />
+        </Routes>
     </BrowserRouter>;
 
 };
