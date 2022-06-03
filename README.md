@@ -11,14 +11,14 @@ when you open it, you will see such page.
 
 ![main page](https://raw.githubusercontent.com/Jiangwei-shi/interview-Valitee/main/public/images/mainpage.png)
 
-you can play game by adding /game on the site link.
+you can play game by adding "/game" on the site link.
 
 ![game link](https://raw.githubusercontent.com/Jiangwei-shi/interview-Valitee/main/public/images/gamesite.png)
 
 then you will see such page.
 ![game page](https://raw.githubusercontent.com/Jiangwei-shi/interview-Valitee/main/public/images/gamepage.png)
 
-you can click the button to start play game. there are three result.
+you can click the button to start play game. there are three results.
 ![result 1](https://raw.githubusercontent.com/Jiangwei-shi/interview-Valitee/main/public/images/gameresult.png)
 ![result 2](https://raw.githubusercontent.com/Jiangwei-shi/interview-Valitee/main/public/images/gameresult2.png)
 ![result 3](https://raw.githubusercontent.com/Jiangwei-shi/interview-Valitee/main/public/images/gameresult3.png)
