@@ -2,7 +2,7 @@
     * ts图片声明导入文件
 */
 declare module '*.svg'
-declare module '*.png'{
+declare module '*.png' {
     const value: any;
     export = value;
 }
